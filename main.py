@@ -41,7 +41,7 @@ d = ["perro", "gato", "jirafa", "elefante"]
 
 
 
- e = ["a", a, 2 * a] 
+e = ["a", a, 2 * a] 
 """ print(e[0]==e[1]) """
 """ print(len(e)) """
 
